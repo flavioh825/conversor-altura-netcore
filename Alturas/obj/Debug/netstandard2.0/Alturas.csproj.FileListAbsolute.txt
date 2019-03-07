@@ -1,0 +1,9 @@
+/home/flavio/dotnet/Alturas/bin/Debug/netstandard2.0/Alturas.deps.json
+/home/flavio/dotnet/Alturas/bin/Debug/netstandard2.0/Alturas.dll
+/home/flavio/dotnet/Alturas/bin/Debug/netstandard2.0/Alturas.pdb
+/home/flavio/dotnet/Alturas/obj/Debug/netstandard2.0/Alturas.csprojAssemblyReference.cache
+/home/flavio/dotnet/Alturas/obj/Debug/netstandard2.0/Alturas.csproj.CoreCompileInputs.cache
+/home/flavio/dotnet/Alturas/obj/Debug/netstandard2.0/Alturas.AssemblyInfoInputs.cache
+/home/flavio/dotnet/Alturas/obj/Debug/netstandard2.0/Alturas.AssemblyInfo.cs
+/home/flavio/dotnet/Alturas/obj/Debug/netstandard2.0/Alturas.dll
+/home/flavio/dotnet/Alturas/obj/Debug/netstandard2.0/Alturas.pdb

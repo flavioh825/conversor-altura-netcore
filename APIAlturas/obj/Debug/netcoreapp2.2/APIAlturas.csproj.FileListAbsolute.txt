@@ -1,0 +1,17 @@
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csprojAssemblyReference.cache
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csproj.CoreCompileInputs.cache
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorAssemblyInfo.cache
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorAssemblyInfo.cs
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.AssemblyInfoInputs.cache
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.AssemblyInfo.cs
+/home/flavio/dotnet/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.deps.json
+/home/flavio/dotnet/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.runtimeconfig.json
+/home/flavio/dotnet/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.runtimeconfig.dev.json
+/home/flavio/dotnet/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.dll
+/home/flavio/dotnet/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.pdb
+/home/flavio/dotnet/APIAlturas/bin/Debug/netcoreapp2.2/Alturas.dll
+/home/flavio/dotnet/APIAlturas/bin/Debug/netcoreapp2.2/Alturas.pdb
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorTargetAssemblyInfo.cache
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csproj.CopyComplete
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.dll
+/home/flavio/dotnet/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.pdb
